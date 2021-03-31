@@ -1,0 +1,1 @@
+A simple page that uses the fakeface API to display an AI-generated face on each page load.
